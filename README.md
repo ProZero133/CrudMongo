@@ -1,4 +1,4 @@
-## Instrucciones para montar el ambiente virtual y dataset (Para Windows)
+## Instrucciones para montar el ambiente virtual y dataset (Para Windows con VScode)
 Se estará utilizando el puerto por defecto de Mongodb para la conexion local (27017)
 
 1.- Crear una nueva base de datos dentro de Mongodb con nombre pythonCrud y una coleccion de nombre crud
