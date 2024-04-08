@@ -40,3 +40,9 @@ La columna start es el año donde se estreno el episodio (int)
 La columna total_votes es la cantidad total de votos del capitulo (int)
 
 La columna average_rating (de 0 a 10 con 1 decimal)
+
+## Como utilizar el programa
+
+Debe ingresar unicamente el numero de la accion a realizar entre el 1 y 5, cualquier numero superior o caracter ingresado se considerara como salir del programa y cerrar la conexion con Mongodb
+
+Para las opciones de buscar por episodio, Actualizar y Eliminar se debe ingresar el numero del capitulo sobre el que se desea realizar la accion, para la opcion de insertar un dato deberá ingresar cada uno de los campos solicitados para rellenar las columnas, para la opcion de mostrar todos solo deberá seleccionar el numero de la opcion
