@@ -12,4 +12,5 @@
 6.- Iniciar el ambiente virtual con el comando ./activate 
 
 7.- Instalar la dependencia de mongo para python utilizando el comando pip install pymongo
+
 8.- Retroceder hasta la carpeta raiz del proyecto y navegar hasta la carpeta src y iniciar el programa con el comando Python ./CRUDmongo.py
